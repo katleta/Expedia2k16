@@ -1,0 +1,58 @@
+body {
+  background: #F3F3F3;
+    color: #212121;
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px;
+}
+button {
+  display: inline-block;
+}
+.user {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border: 3px solid #FF700D;
+}
+a {
+  text-align: justify;
+  height: 200px;
+    width: 100px;
+}
+.one {
+  background-image: url('http://wallpaper-gallery.net/images/profile-pictures/profile-pictures-18.jpg');
+}
+
+personal {
+  text-align: right;
+  padding: 10px;
+  text-indent: 50px;
+  
+}
+.border.bottom.left{
+  bottom: 26px;
+    display: block;
+    left: 30px;
+    position: fixed;
+    transform: none;
+    z-index: 1;
+}
+.border.bottom.right {
+    bottom: 26px;
+    position: fixed;
+    right: 30px;
+    top: inherit;
+    transform: none;
+    z-index: 1;
+}
+
+

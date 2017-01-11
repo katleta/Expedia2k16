@@ -1,0 +1,54 @@
+body {
+  background: #F3F3F3;
+    color: #212121;
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px;
+}
+.event {
+  display: inline-block;
+  width: 350px;
+  height: 450px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border: 3px solid #FF700D;
+}
+.one{
+  background-color: red;
+  background-image: url('https://www.residentadvisor.net/images/events/flyer/2012/5/il-0503-359963-23342-front.jpg');
+}
+.events {
+  display: box;
+  width: 25px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin-left:10%;
+}
+.location{
+   background-image: url(https://www.ccc.govt.nz/themes/ccc-default/images/icons/Location-hover-reverse.png);
+   
+}
+.border.bottom.left{
+  bottom: 26px;
+    display: block;
+    left: 30px;
+    position: fixed;
+    transform: none;
+    z-index: 1;
+}
+.border.bottom.right {
+    bottom: 26px;
+    position: fixed;
+    right: 30px;
+    top: inherit;
+    transform: none;
+    z-index: 1;
+}
