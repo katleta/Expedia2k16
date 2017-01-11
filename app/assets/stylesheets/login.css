@@ -1,0 +1,140 @@
+header {
+  
+}
+.menu-icon {
+    background: none;
+    cursor: pointer;
+    float: right;
+    height: 24px;
+    right: 30px;
+    margin: 0;
+    position: fixed;
+    top: 26px;
+    width: 26px;
+    z-index: 100000;
+}
+h3 {
+  text-align: center;
+}
+.text {
+  text-align: center;
+}
+h1 {
+  background-color:#F3F3F3;
+  border-style: outset;
+  border-width: 1px;
+  border-color:#212121;
+ font-family: 'proxima-nova', sans-serif;
+    font-size: 30px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+  padding: 40px;
+  margin: 1 auto;
+  background: #F3F3F3;
+  text-align: center;
+  
+}
+
+.text {
+  background-color:#F3F3F3;
+ font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+
+div {
+  display: block;
+}
+
+space {
+padding: 100px 100px 100px 100px;
+margin: 0 auto;
+}
+button {
+   background-color:#F3F3F3;
+  border-style: outset;
+  border-width: 1px;
+  border-color: #212121;
+  font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+ 
+h2 {
+    background-color:#F3F3F3;
+  border-style: outset;
+  border-width: 1px;
+  border-color: #212121;
+ font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+  padding: 20px;
+  margin: 1 auto;
+  text-align: center;
+}
+
+space {
+    min-height:100%;
+    padding-top:50rem;
+    display:inline-block;
+}
+body {
+    background: #F3F3F3;
+    color: #212121;
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    background-repeat: repeat-x;
+}
+
+    centerimages {
+  background-image: url("http://dontforgettomove.com/wp-content/uploads/2015/06/best-instagram-travel-photos-6.jpg");
+  padding: 100px 100px 100px 100px;
+ position: absolute;
+    right: 230px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+beachimage {
+ display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+.border.bottom.left{
+  bottom: 26px;
+    display: block;
+    left: 30px;
+    position: fixed;
+    transform: none;
+    z-index: 1;
+}
+.border.bottom.right {
+    bottom: 26px;
+    position: fixed;
+    right: 30px;
+    top: inherit;
+    transform: none;
+    z-index: 1;
+}
