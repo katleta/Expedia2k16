@@ -1,0 +1,79 @@
+
+#welcome {
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  padding-top: 25px;
+  text-align: center;
+}
+h2{
+  text-align:center;
+}
+#input {
+   display: block;
+   margin-left: auto;
+
+}
+
+img{
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  padding-top: 25px;
+  text-align: center;
+}
+input[type=text] 
+{
+     font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=password] 
+{
+     font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=submit] 
+{
+     font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+body {
+  background: #F3F3F3;
+    color: #212121;
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px;
+}
